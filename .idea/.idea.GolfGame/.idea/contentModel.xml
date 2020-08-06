@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jblue\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jblue\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_GolfGame.-1423303284.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jblue\Documents\Code\git\GolfGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CrystalFramework" t="Include">
+          <e p="Utility" t="Include">
+            <e p="Demos" t="Include">
+              <e p="SafeAreaDemo.cs" t="Include" />
+              <e p="SafeAreaDemo.txt" t="Include" />
+            </e>
+            <e p="SafeArea.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="GolfGame.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

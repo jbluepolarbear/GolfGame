@@ -1,0 +1,5 @@
+flag, gear, home, menuGrid, plus, pointer, and return images from Kenney.nl
+
+starpoint - paint3d
+
+fingerpoint, launch, panel, starball from Jeremy Anderson
