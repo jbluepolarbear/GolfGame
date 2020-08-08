@@ -19,31 +19,294 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8ddb5dd-fe44-483e-b453-860a360b3bfa" name="Default Changelist" comment="" />
+    <list default="true" id="f8ddb5dd-fe44-483e-b453-860a360b3bfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GolfGame/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.GolfGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AdProvider.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AdProvider.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AudioOnCollision.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AudioOnCollision.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Contexts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Contexts/Context.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Contexts/Context.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Contexts/ContextProvider.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Contexts/ContextProvider.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Contexts/IContextProvider.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Contexts/IContextProvider.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Data/PlayerData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Data/PlayerData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FingerPoint.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FingerPoint.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FingerPoints.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FingerPoints.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GameController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Goal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Goal.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GolfBall.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GolfBall.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/InputController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/InputController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Level Objects.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Level Objects/BoxBumper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Level Objects/BoxBumper.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Level Objects/Bumper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Level Objects/Bumper.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Level.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Level.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LevelSelect.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LevelSelect.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LevelSelectGroup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LevelSelectGroup.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LevelSelectItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LevelSelectItem.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LevelSelectMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/LevelSelectMenu.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ModalController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ModalController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Modals.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Modals/ModalBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Modals/ModalBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RigidbodySpinner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RigidbodySpinner.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SetStarScore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SetStarScore.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StarScore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StarScore.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StarScoreController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StarScoreController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ToggleButton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ToggleButton.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UISoundController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UISoundController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GolfGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GolfGame/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GolfGame/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GolfGame/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GolfGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GolfGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioOnCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Contexts/Context.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StarScoreController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FingerPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GolfBall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SetStarScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FingerPoints.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ToggleButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelSelectMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AdProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UISoundController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E8448A08-DE65-49D6-A430-8E5E4B69C88D/08/5ce3e6b9/IPointerDownHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InputController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelSelect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RigidbodySpinner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Contexts/ContextProvider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DisableAtRuntime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Goal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StarScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Level.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Contexts/IContextProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ModalController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/DisableAtRuntime.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Context/IContext.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Context/Editor/ContextProvider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Context/Editor/ContextProviderEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Context/IContextProvider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Context/ContextProvider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Context/Context.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AdProvider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ModalController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioOnCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UISoundController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelSelect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Contexts/Context.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FingerPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FingerPoints.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Goal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GolfBall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ImageSpin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StarScoreController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SetStarScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameController.cs" />
       </list>
     </option>
+  </component>
+  <component name="ProjectId" id="1fmhO11ra6OoDFIC0iB0DswlG0v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34995976" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30008045" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="9152">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="9152" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8ddb5dd-fe44-483e-b453-860a360b3bfa" name="Default Changelist" comment="" />
+      <created>1596829140126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596829140126</updated>
+      <workItem from="1596829147784" duration="17028000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="511" height="464" key="DebuggerActiveHint" timestamp="1596836792993">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="511" height="464" key="DebuggerActiveHint/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596836792993" />
+    <state width="2517" height="519" key="GridCell.Tab.0.bottom" timestamp="1596857243463">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385333" />
+    <state width="2517" height="519" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243463" />
+    <state width="2517" height="519" key="GridCell.Tab.0.center" timestamp="1596857243463">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385333" />
+    <state width="2517" height="519" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243463" />
+    <state width="2517" height="519" key="GridCell.Tab.0.left" timestamp="1596857243463">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385333" />
+    <state width="2517" height="519" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243463" />
+    <state width="2517" height="519" key="GridCell.Tab.0.right" timestamp="1596857243463">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385333" />
+    <state width="2517" height="519" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243463" />
+    <state width="2517" height="519" key="GridCell.Tab.1.bottom" timestamp="1596857243464">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.bottom/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385334" />
+    <state width="2517" height="519" key="GridCell.Tab.1.bottom/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243464" />
+    <state width="2517" height="519" key="GridCell.Tab.1.center" timestamp="1596857243464">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.center/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385333" />
+    <state width="2517" height="519" key="GridCell.Tab.1.center/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243464" />
+    <state width="2517" height="519" key="GridCell.Tab.1.left" timestamp="1596857243464">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.left/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385333" />
+    <state width="2517" height="519" key="GridCell.Tab.1.left/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243464" />
+    <state width="2517" height="519" key="GridCell.Tab.1.right" timestamp="1596857243464">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.right/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385333" />
+    <state width="2517" height="519" key="GridCell.Tab.1.right/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243464" />
+    <state width="2517" height="519" key="GridCell.Tab.2.bottom" timestamp="1596857243464">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.2.bottom/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385334" />
+    <state width="2517" height="519" key="GridCell.Tab.2.bottom/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243464" />
+    <state width="2517" height="519" key="GridCell.Tab.2.center" timestamp="1596857243464">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.2.center/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385334" />
+    <state width="2517" height="519" key="GridCell.Tab.2.center/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243464" />
+    <state width="2517" height="519" key="GridCell.Tab.2.left" timestamp="1596857243464">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.2.left/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385334" />
+    <state width="2517" height="519" key="GridCell.Tab.2.left/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243464" />
+    <state width="2517" height="519" key="GridCell.Tab.2.right" timestamp="1596857243464">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.2.right/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385334" />
+    <state width="2517" height="519" key="GridCell.Tab.2.right/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243464" />
+    <state width="2517" height="519" key="GridCell.Tab.3.bottom" timestamp="1596857243464">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.3.bottom/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385334" />
+    <state width="2517" height="519" key="GridCell.Tab.3.bottom/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243464" />
+    <state width="2517" height="519" key="GridCell.Tab.3.center" timestamp="1596857243464">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.3.center/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385334" />
+    <state width="2517" height="519" key="GridCell.Tab.3.center/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243464" />
+    <state width="2517" height="519" key="GridCell.Tab.3.left" timestamp="1596857243464">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.3.left/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385334" />
+    <state width="2517" height="519" key="GridCell.Tab.3.left/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243464" />
+    <state width="2517" height="519" key="GridCell.Tab.3.right" timestamp="1596857243464">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.3.right/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596842385334" />
+    <state width="2517" height="519" key="GridCell.Tab.3.right/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596857243464" />
+    <state x="4797" y="404" width="646" height="592" key="find.popup" timestamp="1596839507010">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state x="4797" y="404" width="646" height="592" key="find.popup/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1596839507010" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1596841308393">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1596841308393" />
   </component>
 </project>

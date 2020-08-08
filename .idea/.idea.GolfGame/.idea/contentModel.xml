@@ -6,6 +6,11 @@
     <e p="C:\Users\jblue\Documents\Code\git\GolfGame" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Art" t="Include">
+          <e p="Textures" t="Include">
+            <e p="asset_source.txt" t="Include" />
+          </e>
+        </e>
         <e p="CrystalFramework" t="Include">
           <e p="Utility" t="Include">
             <e p="Demos" t="Include">
@@ -14,6 +19,45 @@
             </e>
             <e p="SafeArea.cs" t="Include" />
           </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AdProvider.cs" t="Include" />
+          <e p="AudioManager.cs" t="Include" />
+          <e p="AudioOnCollision.cs" t="Include" />
+          <e p="Contexts" t="Include">
+            <e p="Context.cs" t="Include" />
+            <e p="ContextProvider.cs" t="Include" />
+            <e p="IContextProvider.cs" t="Include" />
+          </e>
+          <e p="Data" t="Include">
+            <e p="PlayerData.cs" t="Include" />
+          </e>
+          <e p="DisableAtRuntime.cs" t="Include" />
+          <e p="FingerPoint.cs" t="Include" />
+          <e p="FingerPoints.cs" t="Include" />
+          <e p="GameController.cs" t="Include" />
+          <e p="Goal.cs" t="Include" />
+          <e p="GolfBall.cs" t="Include" />
+          <e p="InputController.cs" t="Include" />
+          <e p="Level Objects" t="Include">
+            <e p="BoxBumper.cs" t="Include" />
+            <e p="Bumper.cs" t="Include" />
+          </e>
+          <e p="Level.cs" t="Include" />
+          <e p="LevelSelect.cs" t="Include" />
+          <e p="LevelSelectGroup.cs" t="Include" />
+          <e p="LevelSelectItem.cs" t="Include" />
+          <e p="LevelSelectMenu.cs" t="Include" />
+          <e p="ModalController.cs" t="Include" />
+          <e p="Modals" t="Include">
+            <e p="ModalBase.cs" t="Include" />
+          </e>
+          <e p="RigidbodySpinner.cs" t="Include" />
+          <e p="SetStarScore.cs" t="Include" />
+          <e p="StarScore.cs" t="Include" />
+          <e p="StarScoreController.cs" t="Include" />
+          <e p="ToggleButton.cs" t="Include" />
+          <e p="UISoundController.cs" t="Include" />
         </e>
       </e>
       <e p="GolfGame.sln" t="IncludeFlat" />
